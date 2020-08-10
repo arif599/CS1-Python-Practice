@@ -1,5 +1,5 @@
-# Conerstions for richter inputed by user
-# July 7, 2020
+# Discription: Conerstions for richter inputed by user
+
 
 richter_list = [1,5,9.1,9.2,9.5]
 print("Richter \t joules \t\t TNT")

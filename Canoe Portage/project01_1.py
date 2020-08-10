@@ -1,5 +1,5 @@
-# Conerstions for rods inputed by user
-# July 7, 2020
+# Discription: Conerstions for rods inputed by user
+
 
 rod_in_meters = 5.0292
 furlong_in_rods = 40
